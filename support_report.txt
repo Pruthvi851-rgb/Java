@@ -1,0 +1,14 @@
+CUSTOMER SUPPORT TICKETING SYSTEM REPORT
+=========================================
+Total tickets: 6
+Resolved tickets: 6
+Pending tickets: 0
+Average resolution time: 1002 ms
+
+TICKET DETAILS
+Ticket #1 | Customer: Prathaap Marshall S | Status: Resolved | Representative: Representative1 | Resolution: 1004 ms
+Ticket #2 | Customer: Aaron Paul | Status: Resolved | Representative: Representative2 | Resolution: 1004 ms
+Ticket #3 | Customer: Praveen V | Status: Resolved | Representative: Representative1 | Resolution: 1004 ms
+Ticket #4 | Customer: Pruthvi N | Status: Resolved | Representative: Representative2 | Resolution: 1002 ms
+Ticket #5 | Customer: Joshua Victor | Status: Resolved | Representative: Representative1 | Resolution: 1002 ms
+Ticket #6 | Customer: Joel JS | Status: Resolved | Representative: Representative1 | Resolution: 1000 ms
